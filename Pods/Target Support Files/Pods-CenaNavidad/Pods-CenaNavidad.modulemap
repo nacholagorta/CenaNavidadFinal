@@ -1,0 +1,6 @@
+framework module Pods_CenaNavidad {
+  umbrella header "Pods-CenaNavidad-umbrella.h"
+
+  export *
+  module * { export * }
+}
